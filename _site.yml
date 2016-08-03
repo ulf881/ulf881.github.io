@@ -1,0 +1,10 @@
+name: "ulf881.github.io"
+output_dir: "."
+output:
+  html_document:
+    theme: flatly
+navbar:
+  title: "Jonas"
+  left:
+    - text: "Home"
+      href: index.html
