@@ -8,3 +8,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Repositorios"
+      href: https://github.com/ulf881?tab=repositories
